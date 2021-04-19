@@ -1,5 +1,12 @@
 # @sveltejs/kit
 
+## 1.0.0-next.84
+
+### Patch Changes
+
+- 5c2665f: Prevent ...rest parameters from swallowing earlier characters
+- 4e1c4ea: Omit modulepreload links from pages with no JS
+
 ## 1.0.0-next.83
 
 ### Patch Changes
